@@ -1,4 +1,4 @@
-mport random
+import random
 a="azertyuiopqsdfghjklmwxcvbn"
 b="AZERTYUIOPQSDFGHJKLMWXCVBN"
 n="1234567890"
