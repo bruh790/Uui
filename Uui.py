@@ -11,4 +11,4 @@ while True:
   print("password is: ",pas)
   x+=1
   
-  if x==1000000000000000000000000000
+  if x==100000000000
